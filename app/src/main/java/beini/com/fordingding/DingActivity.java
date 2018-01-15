@@ -21,7 +21,7 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-public class MainActivity extends Activity {
+public class DingActivity extends Activity {
     private TimePickerView pvTime;
     private CheckBox cb_repeat;
     private boolean isCheck = false;
